@@ -1,6 +1,6 @@
 # MintingPipeline
 
-Hello! I'm doing well, thank you for asking. To design a framework for autonomously allowing users to generate tokens for your token ecosystem, we can consider the following steps:
+*To design a framework for autonomously allowing users to generate tokens for a token ecosystem, let us can consider the following steps:*
 
 1. **Token Generation Contract**: You'll need to create a smart contract that handles the generation and distribution of your tokens. This contract should have a function that allows users to claim a certain amount of tokens for free, subject to certain conditions or limits (e.g., one claim per wallet address, daily/weekly claim limits, etc.).
 
